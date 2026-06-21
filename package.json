@@ -1,0 +1,9 @@
+{
+  "name": "sva-consults-site",
+  "version": "1.0.0",
+  "description": "SVA Consults website with Netlify Functions contact form",
+  "private": true,
+  "dependencies": {
+    "nodemailer": "^6.9.7"
+  }
+}
